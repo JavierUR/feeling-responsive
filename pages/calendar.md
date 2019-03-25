@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth-calendar
+layout: page-calendar
 title:  "Calendario de eventos"
 subheadline:  ""
 teaser: ""
