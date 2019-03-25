@@ -7,7 +7,7 @@ categories:
     - design
 header:
    image_fullwidth: header_unsplash_leaf.jpg
-permalink: "/events/calendar"
+permalink: "/events/calendar/"
 ---
 
 <div id='calendar'></div>

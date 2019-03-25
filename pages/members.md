@@ -8,7 +8,7 @@ header:
 permalink: "/members/"
 ---
 
-<link href="/assets/css/members.css" rel="stylesheet">
+<link href="{{ site.url }}{{ site.baseurl }}/assets/css/members.css" rel="stylesheet">
 
 
 <div class="row t60">
