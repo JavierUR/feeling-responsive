@@ -1,0 +1,41 @@
+# Members details
+#
+# 1. Edit information below
+#
+
+javier: # replace this with your info
+  name: Javier Urrutia
+  role: webmaster, designer
+  occupation: "Estudiante ing.eléctrica"
+  image: Javier_Urrutia.jpg
+  uri: https://github.com/JavierUR
+  email: javier.urrutia.r@ug.uchile.cl
+  twitter: ""
+
+nicolas: # replace this with your info
+  name: Nicolás Marticorena
+  role: webmaster, designer
+  occupation: "Estudiante ing.eléctrica"
+  image: nmarticorena.jpg
+  uri: https://github.com/JavierUR
+  email: nicolas.marticorena.vidal@gmail.com
+  twitter: ""
+
+giovani: # replace this with your info
+  name: Giovani Pais
+  role: "webmaster, m, copywriter, designer"
+  occupation: "Estudiante ing.eléctrica"
+  image: Giorgio_Pais.jpg
+  uri: 
+  email: giom.pais@gmail.com
+  twitter: ""
+
+rodrigo: # replace this with your info
+  name: Rodrigo Salas
+  role: "webmaster, m, copywriter, designer"
+  occupation: "Estudiante ing.eléctrica"
+  image: Rodrigo_Salas.jpg
+  uri: https://github.com/JavierUR
+  email: rodrigosalaso@gmail.com
+  twitter: ""
+# you can add more authors here
