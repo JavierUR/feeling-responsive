@@ -25,8 +25,8 @@ author: Javier
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://javierur.github.io'
-baseurl: '/ras-site'
+url: 'https://javierur.github.io/ras-site'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
