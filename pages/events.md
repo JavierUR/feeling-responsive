@@ -7,7 +7,7 @@ header:
    image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/events/"
 ---
-<a href="/events/calendar" class="button">Calendario</a>
+<a href="{{site.baseurl}}/events/calendar" class="button">Calendario</a>
 
 ## Beauchef Robotics Challenge
 {: .t30 }
@@ -16,7 +16,7 @@ permalink: "/events/"
 
 Competencia de robótica
 
-<a href="/events/brc" class="button">Ver más</a>
+<a href="{{site.baseurl}}/events/brc" class="button">Ver más</a>
 
 
 
