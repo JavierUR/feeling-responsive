@@ -33,7 +33,7 @@
         <h2>{{member.name}}</h2>
         <p><b>{{member.role}}</b><br>
             {{member.email}} <br>
-            {{member.occupation}} </p>
+            {{member.occupation}} <br></p>
         {%if member.uri%}
         <a href="{{member.uri}}" target="_blank" class="btn">Info</a>
         {%endif%}
