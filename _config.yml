@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'IEEE RAS UCHILE'
+title: 'IEEE UCHILE'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Este es el sitio web de la rama RAS de la Universidad de Chile.'
+description: 'Este es el sitio web de la rama estudiantil IEEE de la Universidad de Chile.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Creado por <a href="https://github.com/JavierUR">Javier</a> con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> basado en <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
