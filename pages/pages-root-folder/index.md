@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header.jpg
+  image_fullwidth: header.svg
 widget1:
   title: "BRC"
   url: '/events/brc'
