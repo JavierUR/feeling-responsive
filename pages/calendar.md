@@ -6,7 +6,7 @@ teaser: ""
 categories:
     - design
 header:
-   image_fullwidth: header.jpg
+   image_fullwidth: header.svg
 permalink: "/events/calendar/"
 ---
 
