@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Eventos"
-subheadline: "ToDo-List &amp; Ideas"
+title: "Eventos RAS"
+subheadline: ""
 teaser: "Aqui están los eventos que que organizamos."
 header:
    image_fullwidth: "header_brc.jpg"
