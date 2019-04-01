@@ -4,7 +4,7 @@ title: "Miembros"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "header.jpg"
 permalink: "/members/"
 ---
 

@@ -4,7 +4,7 @@ title: "Eventos"
 subheadline: "ToDo-List &amp; Ideas"
 teaser: "Aqui están los eventos que que organizamos."
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "header_brc.jpg"
 permalink: "/events/"
 ---
 <a href="{{site.baseurl}}/events/calendar" class="button">Calendario</a>

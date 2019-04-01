@@ -14,12 +14,16 @@
   url: "/members/"
   side: left
 
-- title: Eventos
+- title: Capitulo RAS
   url: "/events/"
   side: left
   dropdown:
+  - title: "Eventos"
+    url: "/events/"
   - title: "Calendario"
     url: "/events/calendar/"
+
+
 
 # - title: "Templates"
 #   url: "/design/"

@@ -2,28 +2,9 @@
 *
 *   This include lets you easily a member image and description
 *
-*   You can use the following kinds of alerts:
-*
-*    - warning  (foundation built-in)
-*    - info     (foundation built-in)
-*    - success  (foundation built-in)
-*    - alert    (foundation built-in)
-*    - text     (foundation built-in)
-*    - terminal (custom, see Alerts in _sass/_09_elements.scss)
-*    - ...      (define your own: .alert-box.<alert-type> { @include alert-style(<bg-color>);)
-*
-*   You can even use markdown and <html>-tags inside the alert, but beware to use " and ' properly; for example:
-*
-*       {% include alert info='Show an info alert with <b>outstanding</b> <a href="#info">information</a>.' %}
-*
-*       {% include alert info='Show an info alert with *outstanding* [information](#info).' %}
-*
-*       {% include alert info='Show an info alert with *outstanding* <a href="#info">information</a>.' %}
-*
-*   You can also call for additional classes to be put on the alert div:
-*
-*       {% include alert success="Yay! you did it!" classes='round' %}
-*
+*   Usage:
+*   {% include member member="name" %}
+*   members must be defined in _data as members.yml
 {% endcomment %}
 
 {% assign member = site.data.members[{{include.member}}] %}
@@ -39,4 +20,8 @@
         {%endif%}
     </div>
 </div>
-<h6> {{member.name}} <br> {{member.role}}</h6>
+<h6> {{member.name}} <br> 
+     {%if member.chapter%}
+        {{member.chapter}} <br>
+     {%endif%}
+     {{member.role}}</h6>

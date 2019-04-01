@@ -6,7 +6,7 @@ teaser: ""
 categories:
     - design
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: header.jpg
 permalink: "/events/calendar/"
 ---
 
