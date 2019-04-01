@@ -11,7 +11,7 @@ widget1:
   title: "BRC"
   url: '/events/brc'
   image: brc-thumb.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Competencia de robótica organizada por la rama IEEE, la Comunidad de Robotica de la facultad y el FabLab U.deChile'
 
 #
 # Use the call for action to show a button on the frontpage

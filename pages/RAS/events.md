@@ -5,9 +5,9 @@ subheadline: "ToDo-List &amp; Ideas"
 teaser: "Aqui están los eventos que que organizamos."
 header:
    image_fullwidth: "header_brc.jpg"
-permalink: "/events/"
+permalink: "/ras/events/"
 ---
-<a href="{{site.baseurl}}/events/calendar" class="button">Calendario</a>
+<a href="{{site.baseurl}}/ras/events/calendar" class="button">Calendario</a>
 
 ## Beauchef Robotics Challenge
 {: .t30 }

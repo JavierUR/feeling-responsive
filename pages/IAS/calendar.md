@@ -7,7 +7,7 @@ categories:
     - design
 header:
    image_fullwidth: header.svg
-permalink: "/events/calendar/"
+permalink: "/ias/events/calendar/"
 ---
 
 <div id='calendar'></div>

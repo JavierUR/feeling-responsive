@@ -15,15 +15,40 @@
   side: left
 
 - title: Capitulo RAS
-  url: "/events/"
+  url: "/ras/info/"
   side: left
   dropdown:
   - title: "Eventos"
-    url: "/events/"
+    url: "/ras/events/"
   - title: "Calendario"
-    url: "/events/calendar/"
+    url: "/ras/events/calendar/"
 
+- title: Capitulo PES
+  url: "/pes/info/"
+  side: left
+  dropdown:
+  - title: "Eventos"
+    url: "/pes/events/"
+  - title: "Calendario"
+    url: "/pes/events/calendar/"
 
+- title: Capitulo IAS
+  url: "/ias/info/"
+  side: left
+  dropdown:
+  - title: "Eventos"
+    url: "/ias/events/"
+  - title: "Calendario"
+    url: "/ias/events/calendar/"
+
+- title: WIE
+  url: "/wie/info/"
+  side: left
+  dropdown:
+  - title: "Eventos"
+    url: "/wie/events/"
+  - title: "Calendario"
+    url: "/wie/events/calendar/"
 
 # - title: "Templates"
 #   url: "/design/"
