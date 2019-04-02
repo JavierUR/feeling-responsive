@@ -17,7 +17,7 @@ nicolas: # replace this with your info
   role: 
   occupation: "Estudiante ing.eléctrica"
   image: nmarticorena.jpg
-  uri: https://github.com/JavierUR
+  uri: https://github.com/nmarticorena
   email: nicolas.marticorena.vidal@gmail.com
   chapter: "RAS"
 
@@ -26,7 +26,7 @@ giovani: # replace this with your info
   role: 
   occupation: "Estudiante ing.eléctrica"
   image: Giorgio_Pais.jpg
-  uri: 
+  uri: https://github.com/GioPais
   email: giom.pais@gmail.com
   chapter: "RAS"
 
@@ -35,7 +35,7 @@ rodrigo: # replace this with your info
   role: 
   occupation: "Estudiante ing.eléctrica"
   image: Rodrigo_Salas.jpg
-  uri: https://github.com/JavierUR
+  uri: https://github.com/WigDiscofever
   email: rodrigosalaso@gmail.com
   chapter: "RAS"
 # you can add more members here
