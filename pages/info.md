@@ -2,60 +2,38 @@
 layout: page
 title: "Sobre Nosotros"
 subheadline: ""
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: ""
 permalink: "/info/"
 header:
     image_fullwidth: "header.svg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+Somos una comunidad oficialmente constituida ante el Institute of Electrical and
+Electronics Engineers (IEEE), conformado por estudiantes de diferentes áreas
+académicas de pregrado y postgrado del Departamento de Ingeniería Eléctrica de la
+Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile, nuestros
+objetivos principales son la permanente actualización profesional, la investigación, el
+desarrollo e implementación de nuevas tecnologías.
 
+Dentro de nuestras actividades principales están la organización y participación en
+congresos técnicos y charlas de profesionalización, generación de conocimiento a
+través de la investigación, desarrollo e implementación enmarcados en las nuevas
+tecnologías; nuestro alcance vas más allá de las fronteras, el propósito es forjar
+lazos de conocimiento y proyectos innovadores con un impacto duradero utilizando
+recursos limitados y propios.
 
-## Features
+Nuestra comunidad sabe que los profesionales forjados y aquellos que aún siguen
+el camino académico poseen visiones distintas o a veces compartidas, es por eso
+que nuestro espacio es didáctico y lleno de creatividad con aportes de expertos en
+terreno y de quienes impulsan su primera idea como estudiantes, queremos
+propiciar un conversatorio constante que se torne real y visible en proyectos
+apoyados entre universidades y especialidades indistintas.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
-
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+Es así que actuamos de forma interdependiente; nuestro trabajo tiene mucho que
+ver con el emprendimiento de acciones pensadas en grande, que transmitan
+beneficio a la Rama Estudiantil e incluso a la sociedad que se ve involucrada con
+ella, no existen limitaciones en apoyo, incluso deseamos que cada alumno se torne
+en un soporte activo de los objetivos deseados, de los proyectos en creación, de su
+impulso en el futuro, de su capacidad de voluntario/a; pues también nos
+consideramos un escalón de experiencia y conocimiento para forjar un camino de
+futuro éxito.
