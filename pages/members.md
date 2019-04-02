@@ -12,19 +12,16 @@ permalink: "/members/"
 
 
 <div class="row t60">
-	<div class="medium-6 columns b30">
-    	{% include member member="giovani" %}
-    </div>
+    {%for person in site.data.members %}
+        {% assign member = person[0] %}
+        <div class="medium-6 columns b30">
+            {% include member-by-name memberName=member %}
 
-    <div class="medium-6 columns b30">
-    	{% include member member="javier" %}
-    </div>
+        </div>
+    {%endfor%}
 
-    <div class="medium-6 columns b30">
-    	{% include member member="nicolas" %}
-    </div>
+	
 
-    <div class="medium-6 columns b30">
-    	{% include member member="rodrigo" %}
-    </div>
+
+
 </div>

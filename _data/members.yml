@@ -3,39 +3,84 @@
 # 1. Edit information below
 #
 #OPTIONAL: uri,chapter
-javier: # replace this with your info
-  name: Javier Urrutia
-  role: 
-  occupation: "Estudiante ing.eléctrica"
-  image: Javier_Urrutia.jpg
-  uri: https://github.com/JavierUR
-  email: javier.urrutia.r@ug.uchile.cl
-  chapter: "RAS"
+barbara: # replace this with your info
+  name: Bárbara Blanco C.
+  role: Presidenta electa Rama IEEE
+  occupation: "Estudiante postgrado ing.eléctrica"
+  image: barbara_blanco.jpg
+  uri: https://linkedin.com/in/benjamínvenegas
+  email: barbara.blanco@ing.uchile.cl
+  chapter: "PES"
 
-nicolas: # replace this with your info
-  name: Nicolás Marticorena
-  role: 
-  occupation: "Estudiante ing.eléctrica"
-  image: nmarticorena.jpg
-  uri: https://github.com/nmarticorena
-  email: nicolas.marticorena.vidal@gmail.com
-  chapter: "RAS"
+benjamin: # replace this with your info
+  name: Benjamín Venegas
+  role: Vicepresidente Rama IEEE
+  occupation: "Estudiante pregrado ing.eléctrica"
+  image: benjamin_venegas.jpg
+  uri: https://linkedin.com/in/benjamínvenegas
+  email: benjamin.mvenegasr@gmail.com
+  chapter: "PES"
+
+alex: # replace this with your info
+  name: Alex Villamarín Jácome
+  role: Presidente del Capítulo PES
+  occupation: "Estudiante Magister en ing.eléctrica"
+  image: alex_villamarin.jpg
+  uri: https://www.linkedin.com/in/alex-villamar%C3%ADn-j%C3%A1come-8b9367b6/
+  email: a.villamarinj@ieee.org
+  chapter: "PES"
+
+ignacio: # replace this with your info
+  name: Ignacio Ñancupil Q.
+  role: Secretario
+  occupation: "Estudiante pregrado ing.eléctrica"
+  image: ignacio_gnancupil.jpg
+  uri: https://www.linkedin.com/in/ignacio-nancupil/
+  email: ignacio.nancupil@ing.uchile.cl
+  chapter: "PES"
 
 giovani: # replace this with your info
   name: Giovani Pais
   role: 
-  occupation: "Estudiante ing.eléctrica"
+  occupation: "Estudiante pregrado ing.eléctrica"
   image: Giorgio_Pais.jpg
   uri: https://github.com/GioPais
   email: giom.pais@gmail.com
   chapter: "RAS"
 
+nicolas: # replace this with your info
+  name: Nicolás Marticorena
+  role: Vice Chair del Capítulo IEEE RAS
+  occupation: "Estudiante pregrado ing.eléctrica"
+  image: nmarticorena.jpg
+  uri: https://github.com/nmarticorena
+  email: nicolas.marticorena.vidal@gmail.com
+  chapter: "RAS"
+
+javier: # replace this with your info
+  name: Javier Urrutia R.
+  role: Miembro
+  occupation: "Estudiante pregrado ing.eléctrica"
+  image: Javier_Urrutia.jpg
+  uri: https://github.com/JavierUR
+  email: javier.urrutia.r@ug.uchile.cl
+  chapter: "RAS"
+
 rodrigo: # replace this with your info
   name: Rodrigo Salas
   role: 
-  occupation: "Estudiante ing.eléctrica"
+  occupation: "Estudiante pregrado ing.eléctrica"
   image: Rodrigo_Salas.jpg
   uri: https://github.com/WigDiscofever
   email: rodrigosalaso@gmail.com
+  chapter: "RAS"
+
+sebastian: # replace this with your info
+  name: Sebastián Parra
+  role: Miembro
+  occupation: "Estudiante pregrado ing.eléctrica"
+  image: 
+  uri: https://www.linkedin.com/in/sebasti%C3%A1n-parra-683263163/
+  email: sebastian.parra.f@ug.uchile.com
   chapter: "RAS"
 # you can add more members here

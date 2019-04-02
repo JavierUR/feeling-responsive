@@ -3,13 +3,19 @@
 *   This include lets you easily a member image and description
 *
 *   Usage:
-*   {% include member member="name" %}
+*   {% include member memberData=memberEntry %}
 *   members must be defined in _data as members.yml
 {% endcomment %}
 
-{% assign member = site.data.members[{{include.member}}] %}
+{% assign member = include.memberData] %}
+
+{%if member.image%}
+        {% assign image = member.image] %}
+{%else%}
+        {% assign image = "logo_pic.png"] %}
+{%endif%}
 <div class="view view_first">
-    <img src="{{ site.urlimg }}/members/{{member.image}}" alt=""/>
+    <img src="{{ site.urlimg }}/members/{{image}}" alt=""/>
     <div class="mask">
         <h2>{{member.name}}</h2>
         <p><b>{{member.role}}</b><br>

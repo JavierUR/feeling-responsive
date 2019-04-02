@@ -1,0 +1,14 @@
+{% comment %}
+*
+*   This include lets you easily a member image and description
+*
+*   Usage:
+*   {% include member memberName="name" %}
+*   members must be defined in _data as members.yml
+{% endcomment %}
+
+{% assign member = site.data.members[{{include.memberName}}] %}
+
+{% include member memberData=member %}
+
+
