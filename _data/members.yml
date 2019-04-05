@@ -10,7 +10,7 @@ barbara: # replace this with your info
   image: barbara_blanco.jpg
   uri: https://linkedin.com/in/benjamínvenegas
   email: barbara.blanco@ing.uchile.cl
-  chapter: "PES"
+  chapter: 
 
 benjamin: # replace this with your info
   name: Benjamín Venegas
