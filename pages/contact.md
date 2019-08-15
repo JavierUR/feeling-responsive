@@ -10,7 +10,5 @@ permalink: "/contact/"
 ## Correo
 correo@sitio.com
 
-## Facebook
-Página de la rama:
-
-[facebook.com/ramaieeeuchile/](https://www.facebook.com/ramaieeeuchile/)
+## Redes Sociales
+<a class="radius button small" href="https://www.facebook.com/ramaieeeuchile/">__Facebook__</a>
