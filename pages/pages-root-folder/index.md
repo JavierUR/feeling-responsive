@@ -10,7 +10,7 @@ header:
 widget1:
   title: "BRC"
   url: '/events/brc'
-  image: brc-thumb.jpg
+  image: brc/brc-thumb.jpg
   text: 'Competencia de robótica organizada por la rama IEEE, la Comunidad de Robotica de la facultad y el FabLab U.deChile'
 
 #

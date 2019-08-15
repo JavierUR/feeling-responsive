@@ -14,41 +14,35 @@
   url: "/members/"
   side: left
 
-- title: Capitulo RAS
-  url: "/ras/info/"
+- title: Capitulos
+  url: "/chapters/info/"
   side: left
   dropdown:
-  - title: "Eventos"
-    url: "/ras/events/"
-  - title: "Calendario"
-    url: "/ras/events/calendar/"
+  - title: "PES"
+    url: "/chapters/pes/info/"
+  - title: "RAS"
+    url: "/chapters/ras/info/"
+  - title: "IAS"
+    url: "/chapters/ias/info/"
 
-- title: Capitulo PES
-  url: "/pes/info/"
+- title: Grupos
+  url: "/groups/info"
   side: left
   dropdown:
-  - title: "Eventos"
-    url: "/pes/events/"
-  - title: "Calendario"
-    url: "/pes/events/calendar/"
+  - title: "WIE"
+    url: "/groups/wie/info/"
+  - title: "SIGHT"
+    url: "/groups/sight/info/"
 
-- title: Capitulo IAS
-  url: "/ias/info/"
+- title: Eventos
+  url: "/events/"
   side: left
-  dropdown:
-  - title: "Eventos"
-    url: "/ias/events/"
-  - title: "Calendario"
-    url: "/ias/events/calendar/"
 
-- title: WIE
-  url: "/wie/info/"
+- title: Calendario
+  url: "/calendar/"
   side: left
-  dropdown:
-  - title: "Eventos"
-    url: "/wie/events/"
-  - title: "Calendario"
-    url: "/wie/events/calendar/"
+
+
 
 # - title: "Templates"
 #   url: "/design/"
@@ -109,6 +103,10 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+- title: IEEE.org
+  url: "https://www.ieee.org/"
+  side: right
 
 - title: "Buscar"
   url: "/search/"

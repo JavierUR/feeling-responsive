@@ -5,7 +5,7 @@
 #OPTIONAL: uri,chapter
 barbara: # replace this with your info
   name: Bárbara Blanco C.
-  role: Presidenta electa Rama IEEE
+  role: Presidenta Rama IEEE
   occupation: "Estudiante postgrado ing.eléctrica"
   image: barbara_blanco.jpg
   uri: https://linkedin.com/in/benjamínvenegas
@@ -68,7 +68,7 @@ javier: # replace this with your info
 
 rodrigo: # replace this with your info
   name: Rodrigo Salas
-  role: 
+  role: Miembro
   occupation: "Estudiante pregrado ing.eléctrica"
   image: Rodrigo_Salas.jpg
   uri: https://github.com/WigDiscofever

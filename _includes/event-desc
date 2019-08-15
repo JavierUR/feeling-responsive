@@ -1,0 +1,19 @@
+	{% comment %}
+*
+*   This include lets you easily add an event description
+*
+*   Usage:
+*   {% include event_desc name="namerEntry" desc="description" img="imgEntry" link="linkEntry" %}
+
+{% endcomment %}
+
+
+
+<img src="{{ site.urlimg }}{{include.img}}" alt=""/>
+
+<h4> {{include.name}} </h4>
+
+{{include.desc}}
+
+<br>
+<a href="{{site.baseurl}}{{include.link}}" class="button">Ver más</a>

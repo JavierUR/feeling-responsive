@@ -5,9 +5,9 @@ subheadline: ""
 teaser: "Aqui están los eventos que que organizamos."
 header:
    image_fullwidth: "header_brc.jpg"
-permalink: "/wie/events/"
+permalink: "/groups/sight/events/"
 ---
-<a href="{{site.baseurl}}/wie/events/calendar" class="button">Calendario</a>
+<a href="{{site.baseurl}}/calendar" class="button">Calendario</a>
 
 
 

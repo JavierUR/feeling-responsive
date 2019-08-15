@@ -1,6 +1,6 @@
 {% comment %}
 *
-*   This include lets you easily a member image and description
+*   This include lets you easily add a member image and description
 *
 *   Usage:
 *   {% include member memberData=memberEntry %}
